@@ -17,7 +17,7 @@ For Task 1, I focused on the foundational mechanics of interacting with Large La
 
 You can view the full documentation, including prompt teardowns and output comparisons, in my GitHub repository below! 👇
 
-🔗 GitHub Repository: [Insert Link to Task 01]
+🔗 GitHub Repository: [https://github.com/skmdshariff143-ai/SkillCraft-Prompt-Engineering/tree/main/projects/Task-01-Writing-Better-Prompts]
 
 #PromptEngineering #ArtificialIntelligence #SkillCraftTechnology #MachineLearning #TechInternship #OpenAI #GenerativeAI
 
@@ -37,7 +37,7 @@ By instructing the AI to act as a "Veteran Silicon Valley VC" and utilizing nega
 
 Check out the full prompt evolution and comparison matrix on my GitHub! 👇
 
-🔗 GitHub Repository: [Insert Link to Task 02]
+🔗 GitHub Repository: [https://github.com/skmdshariff143-ai/SkillCraft-Prompt-Engineering/tree/main/projects/Task-02-AI-Startup-Idea-Generator]
 
 #AIStartups #VentureCapital #PromptEngineering #GenerativeAI #SkillCraftTechnology #TechInnovation #LLM
 
@@ -55,7 +55,7 @@ The results proved that generative AI possesses immense creative potential, but 
 
 Dive into the side-by-side prompt comparisons in my portfolio below! 👇
 
-🔗 GitHub Repository: [Insert Link to Task 03]
+🔗 GitHub Repository: [https://github.com/skmdshariff143-ai/SkillCraft-Prompt-Engineering/tree/main/projects/Task-03-Creative-Prompting-Projects]
 
 #Copywriting #CreativeAI #PromptEngineering #MarketingTech #SkillCraftTechnology #FutureOfWork #AI
 
@@ -74,6 +74,6 @@ When integrating LLMs into software architectures, creativity is actually a liab
 
 You can see the raw transcripts, the system prompt, and the parsed JSON outputs in my GitHub repo! 👇
 
-🔗 GitHub Repository: [Insert Link to Task 04]
+🔗 GitHub Repository: [https://github.com/skmdshariff143-ai/SkillCraft-Prompt-Engineering/tree/main/projects/Task-04-Meeting-Notes-JSON-Converter]
 
 #DataAutomation #JSON #PromptEngineering #SoftwareEngineering #SkillCraftTechnology #LLMIntegration #TechPortfolio
