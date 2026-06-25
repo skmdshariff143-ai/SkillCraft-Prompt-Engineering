@@ -1,5 +1,7 @@
 # Task 04: AI Automation Specialist - Meeting Notes to JSON Converter
 
+![Task 04: Interview Assistant](screenshots/task04-interview-assistant.png)
+
 *(Note: Sequenced as Task 04 to preserve your previous Creative Prompting Task 03)*
 
 ## 🎯 Objective

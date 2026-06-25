@@ -1,5 +1,7 @@
 # Task 02: AI Startup Idea Generator
 
+![Task 02: Creative Prompting](screenshots/task02-creative-prompting.png)
+
 ## 🎯 Objective
 To explore the iterative process of prompt engineering by developing an AI Startup Idea Generator. This task demonstrates how progressively refining a prompt—from a basic command to a professional, persona-driven framework—drastically enhances the creativity, detail, and business value of the AI's output.
 

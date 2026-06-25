@@ -1,5 +1,7 @@
 # Task 03: Creative Prompting Projects
 
+![Task 03: Task Automation](screenshots/task03-task-automation.png)
+
 ## 🎯 Objective
 To apply iterative prompt engineering techniques to highly creative domains: Narrative Fiction (Story Generation) and Marketing (Advertisement Generation). This task demonstrates how structural constraints, tone dictation, and specific constraints elevate generic AI outputs into compelling, human-like copy.
 

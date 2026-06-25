@@ -1,5 +1,7 @@
 # Task 01: Writing Better Prompts
 
+![Task 01: Prompt Comparison](screenshots/task01-prompt-comparison.png)
+
 ## 🎯 Objective
 To master the foundational principles of prompt engineering by transforming vague, open-ended queries into highly specific, context-rich instructions that yield precise, actionable, and high-quality AI outputs.
 
