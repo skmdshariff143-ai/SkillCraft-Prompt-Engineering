@@ -2,9 +2,8 @@
 
 <div align="center">
   
-  ![Banner Placeholder](assets/banner.png) <!-- Replace with actual banner -->
+  ![SkillCraft Technology - Prompt Engineering Internship](assets/banner.png)
 
-  <!-- GitHub Badges -->
   [![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white)](https://openai.com/)
   [![Prompt Engineering](https://img.shields.io/badge/Skill-Prompt_Engineering-FF6F00?logo=lightning&logoColor=white)](https://github.com/skmdshariff143-ai)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

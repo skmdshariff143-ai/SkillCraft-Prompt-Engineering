@@ -2,8 +2,6 @@
 
 ![Task 04: Interview Assistant](screenshots/task04-interview-assistant.png)
 
-*(Note: Sequenced as Task 04 to preserve your previous Creative Prompting Task 03)*
-
 ## 🎯 Objective
 To design a deterministic, robust prompt that reliably converts unstructured, conversational meeting transcripts into a strictly formatted, machine-readable JSON object. This task highlights how prompt engineering bridges the gap between natural language processing and structured data automation.
 
